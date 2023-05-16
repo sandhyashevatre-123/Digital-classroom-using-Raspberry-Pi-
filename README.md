@@ -1,4 +1,9 @@
 # Digital-classroom-using-Raspberry-Pi-
+
+
+A smart digital classroom project has been implemented at jamgaon and mulashi ZP schools. Both of these projects have been successfully completed by the IOT forum in collaboration with NSS volunteers. There were many difficulties and obstacles because these villages are less developed and internet connectivity issues are prevalent, but we dedicatedly completed both classrooms. Dr. Vivek Deshpande Sir, Director of VIIT PUNE, visited this school on the occasion of the inogration. I had the best experience ever!
+
+
 A digital classroom using Raspberry Pi is a low-cost, flexible, and powerful way to engage students in learning. Raspberry Pi can be used to deliver interactive lessons, collect data, and create projects.
 
 
